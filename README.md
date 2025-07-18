@@ -45,7 +45,7 @@ Sigue estos pasos para crear una copia personalizada en tu cuenta ChatGPT:
 💡 Nota: Para crear tu propio GPT personalizado, necesitas una cuenta de pago de ChatGPT Plus.
 
 ➡️ Sin embargo, puedes **usar este GPT sin costo** desde la GPT Store, incluso con cuenta gratuita:
-👉 [https://chatgpt.com/g/g-68793fc52b64819187754402388cf360-flow-coach-empleo-publico](https://chatgpt.com/g/g-68793fc52b64819187754402388cf360-flow-coach-empleo-publico)
+👉 [Accede gratis a Flow Coach Empleo desde GPT Store](https://chatgpt.com/g/g-68793fc52b64819187754402388cf360-flow-coach-empleo-publico)
 
 ---
 
