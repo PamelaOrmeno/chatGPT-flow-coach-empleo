@@ -1,27 +1,89 @@
-# 🎯 Flow Coach Empleo
+# 🎯 Flow Coach Empleo (GPT Público)
 
-Asistente personalizado para acompañar a profesionales tech en su búsqueda laboral. Ayuda con entrevistas, CV, publicaciones en LinkedIn y planificación de acciones semanales.
+Asistente de IA personalizado con ChatGPT, diseñado para personas en búsqueda activa de empleo. Te ayuda a organizar entrevistas, optimizar tu CV, mejorar tu perfil de LinkedIn y mantener el foco en tu proceso de búsqueda laboral.
 
-## 🎯 ¿Qué hace este GPT?
+> 🔎 Este GPT nace desde mi experiencia real enfrentando la búsqueda de trabajo, buscando una herramienta que fuera práctica, cercana y sin rodeos.
 
-- Prepara respuestas para entrevistas según rol
-- Revisa publicaciones y comentarios de LinkedIn
-- Sugiere mejoras en CV y estructura de perfil
-- Organiza la semana laboral con foco en empleabilidad
-- Simula entrevistas con preguntas exigentes
-
-## 🧩 ¿Para quién está pensado?
-
-Principalmente para profesionales en tecnología (Scrum Master, Flow Master, QA, etc.), en proceso de transición laboral o mejora de visibilidad.
-
-## 🛠️ Cómo usarlo
-
-1. Accede al GPT personalizado desde este enlace: [Link al GPT público](https://chatgpt.com/g/g-68793fc52b64819187754402388cf360-flow-coach-empleo-publico)
-2. Escribe “menú” para ver todas las opciones disponibles.
-3. Elige una acción según tu necesidad.
+<p align="center">
+    <img src="./assets/preview-flow-coach-empleo.png" alt="Flow Coach Empleo" width="500"/>
+</p>
 
 ---
 
+## ✅ Funcionalidades principales
+
+- ✅ Optimiza tu CV con recomendaciones claras
+- ✅ Prepara entrevistas con preguntas frecuentes y simulaciones
+- ✅ Mejora tu perfil de LinkedIn con foco estratégico
+- ✅ Organiza tus tareas semanales y tu progreso
+
+---
+
+## 🧠 Tecnologías utilizadas
+
+- ChatGPT (OpenAI GPT-4o)
+- Prompt Engineering
+- Instrucciones personalizadas en interfaz GPT
+- GitHub para documentación y versiones
+
+---
+
+## 🚀 ¿Cómo crear tu propio Flow Coach Empleo?
+
+Sigue estos pasos para crear una copia personalizada en tu cuenta ChatGPT:
+
+1. Ve a [https://chat.openai.com/create-gpt](https://chat.openai.com/create-gpt)
+2. Haz clic en "Crear un GPT"
+3. Completa los campos con los siguientes datos:
+   - **Nombre:** Flow Coach Empleo
+   - **Instrucciones del sistema:** Usa las contenidas en [`instructions.txt`](./instructions.txt) de este repositorio
+   - **Visibilidad:** Puedes mantenerlo privado o público
+4. Personaliza el ícono o descripción a tu gusto
+5. Guarda y comienza a usarlo 🎉
+<br>
+
+💡 Nota: Para crear tu propio GPT personalizado, necesitas una cuenta de pago de ChatGPT Plus.
+
+➡️ Sin embargo, puedes **usar este GPT sin costo** desde la GPT Store, incluso con cuenta gratuita:
+👉 [https://chatgpt.com/g/g-68793fc52b64819187754402388cf360-flow-coach-empleo-publico](https://chatgpt.com/g/g-68793fc52b64819187754402388cf360-flow-coach-empleo-publico)
+
+---
+
+## 📂 Estructura del repositorio
+
+```
+
+chatGPT-flow-coach-empleo/
+├── README.md
+├── instructions.txt       # Instrucciones utilizadas para la creación del GPT
+└── assets/
+    └── preview-flow-coach-empleo.png  # Imagen promocional (opcional)
+```
+
+---
+
+## 🌐 Accede al GPT
+
+🧩 Usar Flow Coach Empleo directamente desde GPT Store
+
+## 🤝 Contribución
+
+¿Tienes ideas para extenderlo? ¿Te gustaría adaptarlo para otros sectores o países?
+
+Haz un fork del repositorio
+
+Abre un issue con tu sugerencia
+
+Comparte tu versión en LinkedIn y etiquétame 😉
+
+## 💬 Contacto
+
+📧 LinkedIn [Pamela Ormeño](https://www.linkedin.com/in/pamelaormeno/)
+<br>
+📧 [pamelaormeno@gmail.com](mailto:pamelaormeno@gmail.com)
+<br>
+💻 [Repositorio principal de GPTs](https://github.com/PamelaOrmeno/chatGPT-flow-coach-empleo)
+
 ## 📄 Licencia
 
-Uso libre, con atribución a [@PamelaOrmeno](https://github.com/PamelaOrmeno) · Powered by ChatGPT
+MIT © 2025 Pamela Ormeño. Uso libre con atribución.
