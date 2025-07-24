@@ -1,6 +1,7 @@
 # 🎯 Flow Coach Empleo (GPT Público)
 
-![Visitas](https://komarev.com/ghpvc/?username=PamelaOrmeno&repo=chatGPT-flow-coach-empleo&color=blue&label=Visitas)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=PamelaOrmeno.chatGPT-flow-coach-empleo)
+
 
 Asistente de IA personalizado con ChatGPT, diseñado para personas en búsqueda activa de empleo. Te ayuda a organizar entrevistas, optimizar tu CV, mejorar tu perfil de LinkedIn y mantener el foco en tu proceso de búsqueda laboral.
 
